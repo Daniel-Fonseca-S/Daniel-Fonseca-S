@@ -113,7 +113,7 @@ I help teams ship dependable software by combining formal rigor with pragmatic e
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
 </p>
 
-#### Testing & CI/CD
+#### Testing
 
 <p>
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
