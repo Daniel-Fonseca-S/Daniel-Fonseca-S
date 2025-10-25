@@ -100,6 +100,7 @@ I help teams ship dependable software by combining formal rigor with pragmatic e
 #### Markup & Styling
 
 <p>
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff" />
   <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
