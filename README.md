@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 Value proposition
+## Value proposition
 
 I help teams ship dependable software by combining formal rigor with pragmatic execution. I turn ambiguous requirements into clear, testable interfaces and measurable outcomes.
 
@@ -23,7 +23,7 @@ I help teams ship dependable software by combining formal rigor with pragmatic e
 
 ---
 
-### 🧠 Strengths
+### Strengths
 
 <p>
   <img alt="Systems Thinking" src="https://img.shields.io/badge/Systems%20Thinking-4c1d95?style=for-the-badge" />
@@ -36,7 +36,7 @@ I help teams ship dependable software by combining formal rigor with pragmatic e
 
 ---
 
-### 🎯 Focus
+### Focus
 
 <p>
   <img alt="Crisp Plans" src="https://img.shields.io/badge/Crisp%20Plans-155e75?style=for-the-badge" />
@@ -47,17 +47,17 @@ I help teams ship dependable software by combining formal rigor with pragmatic e
 
 ---
 
-### ⚙️ Workflow
+### Workflow
 
-- 🧭 Context → Constraints → Criteria
-- 🔍 Small PRs + relevant tests
-- 🧪 Timeouts, retries, idempotency
-- 📊 SLIs, tracing, critical-path visibility
-- 📝 Decisions recorded, feedback loops tight
+- Context → Constraints → Criteria
+- Small PRs + relevant tests
+- Timeouts, retries, idempotency
+- SLIs, tracing, critical-path visibility
+- Decisions recorded, feedback loops tight
 
 ---
 
-### 📈 Activity and languages
+### Activity and languages 
 
 <div align="center">
   <a href="https://github.com/Daniel-Fonseca-S" title="GitHub profile">
@@ -70,7 +70,7 @@ I help teams ship dependable software by combining formal rigor with pragmatic e
 
 ---
 
-### 🧰 Tech stack
+### Tech stack 🛠️
 
 <details>
   <summary><b>Expand tech stack</b></summary>
